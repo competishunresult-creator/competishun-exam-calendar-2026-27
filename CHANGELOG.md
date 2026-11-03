@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-03
+- No date changes; all 25 rows re-verified. No new official notices found (BITSAT; MHT CET; AEEE; KIITEE; CUET UG; NEET UG and all others still awaited). JEE Main 2027 S1 schedule unchanged (last date Nov 22 2026). verified_on set to 2026-11-03 for all rows.
+
 ## 2026-11-02
 - No date changes; all 25 rows re-verified. No new official notices found (checked BITSAT; MHT CET; CUET UG; NEET UG; AEEE; KIITEE and others — all still awaited). verified_on set to 2026-11-02 for all rows.
 
