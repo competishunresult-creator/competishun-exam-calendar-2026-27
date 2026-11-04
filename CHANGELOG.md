@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-04
+- VITEEE 2027: exam window text updated from "Late Apr – early May 2027 (tentative)" to "Apr 27 – May 2 2027 (tentative)" as given by VIT. ISO exam dates left blank because VIT calls the window tentative. Sources: https://news.careers360.com/viteee-2027-exam-pattern-syllabus-revised-new-test-centres-eligibility-total-marks-vit-ac-in-deadline-march-31 ; https://www.pw.live/news/viteee-2027-registration-last-date-fees-exam-date ; https://www.collegedekho.com/news/viteee-2027-application-form-out-registration-fee-syllabus-80216/
+- All other 24 exams re-checked; no new official dates (BITSAT; CUET UG; NEET UG; AEEE registration; KIITEE B.Tech and others still awaited). verified_on set to 2026-11-04 for all rows.
+
 ## 2026-11-03
 - No date changes; all 25 rows re-verified. No new official notices found (BITSAT; MHT CET; AEEE; KIITEE; CUET UG; NEET UG and all others still awaited). JEE Main 2027 S1 schedule unchanged (last date Nov 22 2026). verified_on set to 2026-11-03 for all rows.
 
