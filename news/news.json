@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T16:00:00+05:30",
+  "updated_at": "2026-11-05T17:20:00+05:30",
   "items": [
     {"id": "jee-main-2027-s1-last-date-reminder", "date": "2026-11-05", "exam": "jee-main-2027", "type": "Last date", "status": "Official", "top": true,
      "headline": "JEE Main 2027 Session 1 form: 17 days left to apply",
@@ -13,6 +13,10 @@
      "headline": "JEE Main 2027 and CBSE board dates unlikely to clash",
      "summary": "JEE Main Session 1 is in January. CBSE Class 12 board exams are expected in February and March 2027.",
      "source": "Shiksha", "source_url": "https://www.shiksha.com/news/engineering-jee-main-2027-and-cbse-class-12-board-dates-clash-possibility-here-s-what-students-should-know-blogId-245970", "image": "calendar"},
+    {"id": "kiitee-2027-registration-nov-10", "date": "2026-11-05", "exam": "kiitee-2027", "type": "Registration", "status": "News report",
+     "headline": "KIITEE 2027 registration to open on Nov 10, reports say",
+     "summary": "Careers360 and Shiksha report that the KIITEE 2027 Phase 1 form will open on Nov 10 2026 at kiitee.kiit.ac.in. The official KIIT notice is awaited.",
+     "source": "Careers360, Shiksha", "source_url": "https://university.careers360.com/articles/kiitee-important-dates", "image": "form"},
     {"id": "viteee-2027-exam-window", "date": "2026-11-04", "exam": "viteee-2027", "type": "Exam date", "status": "Official",
      "headline": "VITEEE 2027 exam window: Apr 27 to May 2 (tentative)",
      "summary": "VIT has shared a tentative exam window. Registration is open till Mar 31 2027. Slot booking opens in April.",
@@ -21,6 +25,10 @@
      "headline": "SRMJEEE 2027 dates out: only two phases this year",
      "summary": "Phase 1 exam on Apr 17 to 18 2027 (apply by Apr 2). Phase 2 exam on Jun 19 to 20 2027 (apply by Jun 4).",
      "source": "Shiksha", "source_url": "https://www.shiksha.com/news/engineering-srmjeee-2027-exam-dates-announced-number-of-phases-reduced-this-year-blogId-245619", "image": "calendar"},
+    {"id": "jee-main-2027-fresh-application-allowed", "date": "2026-10-30", "exam": "jee-main-2027", "type": "Registration", "status": "Official",
+     "headline": "JEE Main 2027: NTA allows a fresh form to fix big errors",
+     "summary": "Students with major errors can submit a fresh Session 1 form; only the latest paid form counts and the old fee is not refunded. Small errors can be fixed in the correction window, Nov 27 to 29 2026.",
+     "source": "NTA (via Careers360)", "source_url": "https://news.careers360.com/jee-main-2027-registration-nta-guidelines-fresh-application-form-no-multiple-ids-correction-window-nov-27", "image": "form"},
     {"id": "jee-main-2027-registration-advisory", "date": "2026-10-29", "exam": "jee-main-2027", "type": "Advisory", "status": "Official",
      "headline": "NTA issues JEE Main 2027 registration advisory",
      "summary": "NTA shared key instructions for students filling the JEE Main 2027 form.",
