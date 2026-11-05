@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T17:20:00+05:30",
+  "updated_at": "2026-11-05T23:10:00+05:30",
   "items": [
     {"id": "jee-main-2027-s1-last-date-reminder", "date": "2026-11-05", "exam": "jee-main-2027", "type": "Last date", "status": "Official", "top": true,
      "headline": "JEE Main 2027 Session 1 form: 17 days left to apply",
@@ -23,7 +23,7 @@
      "source": "Careers360", "source_url": "https://news.careers360.com/viteee-2027-exam-pattern-syllabus-revised-new-test-centres-eligibility-total-marks-vit-ac-in-deadline-march-31", "image": "calendar"},
     {"id": "srmjeee-2027-dates-two-phases", "date": "2026-11-01", "exam": "srmjeee-2027", "type": "Exam date", "status": "Official",
      "headline": "SRMJEEE 2027 dates out: only two phases this year",
-     "summary": "Phase 1 exam on Apr 17 to 18 2027 (apply by Apr 2). Phase 2 exam on Jun 19 to 20 2027 (apply by Jun 4).",
+     "summary": "Phase 1 exam on Apr 17 to 18 2027 (apply by Apr 2). Phase 2 exam on Jun 19 to 20 2027 (apply by Jun 4). Registration is open at srmist.edu.in; fee is Rs 1400 per phase.",
      "source": "Shiksha", "source_url": "https://www.shiksha.com/news/engineering-srmjeee-2027-exam-dates-announced-number-of-phases-reduced-this-year-blogId-245619", "image": "calendar"},
     {"id": "jee-main-2027-fresh-application-allowed", "date": "2026-10-30", "exam": "jee-main-2027", "type": "Registration", "status": "Official",
      "headline": "JEE Main 2027: NTA allows a fresh form to fix big errors",
