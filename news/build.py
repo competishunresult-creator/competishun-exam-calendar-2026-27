@@ -372,8 +372,8 @@ def build_common(pages, items):
     ]
     modified = pdate(items[0]["date"]) if items else TODAY
     ld = {"@context": "https://schema.org", "@graph": [
-        {"@type": "CollectionPage", "name": "JEE and NEET 2027 Latest Exam News", "url": canonical, "dateModified": max(modified, TODAY).isoformat(),
-         "description": "Latest news for JEE Main, JEE Advanced, NEET UG, BITSAT and 21 more entrance exams. Updated every hour.", "inLanguage": "en-IN",
+        {"@type": "CollectionPage", "name": "NEET and JEE 2027 Latest Exam News", "url": canonical, "dateModified": max(modified, TODAY).isoformat(),
+         "description": "NEET latest news, JEE latest news and exam dates for JEE Main, JEE Advanced, BITSAT and 21 more entrance exams. Updated every hour.", "inLanguage": "en-IN",
          "publisher": {"@type": "EducationalOrganization", "name": "Competishun", "url": SITE + "/"},
          "hasPart": [{"@type": "WebPage", "name": p["h1"], "url": f"{canonical}{p['slug']}/"} for p in sorted(pages.values(), key=lambda x: x["order"])]},
         {"@type": "BreadcrumbList", "itemListElement": [
@@ -397,11 +397,11 @@ def build_common(pages, items):
     filters = '<a class="on" href="./">All</a>' + "".join(f'<a href="{s}/">{escape(pages[s]["short"])}</a>' for s in TABS)
     brk = f'<div class="breaking"><div class="wrap"><span class="badge-breaking">LATEST</span><a href="{pages[lead["exam"]]["slug"]}/#{lead["id"]}" style="color:var(--ink);font-weight:600;text-decoration:none">{escape(lead["headline"])}</a></div></div>' if lead else ""
 
-    html = head("JEE & NEET 2027 Latest News: All Exam Updates | Competishun",
-                "Latest news for JEE Main, JEE Advanced, NEET UG, BITSAT, VITEEE, MHT CET and 19 more entrance exams: registration, last dates, exam dates, admit cards and results. Updated every hour.",
-                canonical, rel, ld, ["jee latest news", "neet latest news", "entrance exam news 2027", "jee main 2027 news", "neet 2027 news"]) + header(rel, pages, "all") + brk + f'''
+    html = head("NEET & JEE Latest News 2027: Exam Dates & Updates | Competishun",
+                "NEET latest news and JEE latest news 2027: exam dates, registration, last dates, admit cards and results for 25 entrance exams. Updated every hour.",
+                canonical, rel, ld, ["neet latest news", "jee latest news", "jee main 2027 exam dates", "neet 2027 exam date", "jee advanced 2027 exam date"]) + header(rel, pages, "all") + brk + f'''
 <div class="wrap">
-  <h1 style="margin:28px 0 0;font-size:38px;color:var(--blue);line-height:1.15">JEE &amp; NEET 2027 Latest Exam News</h1>
+  <h1 style="margin:28px 0 0;font-size:38px;color:var(--blue);line-height:1.15">NEET &amp; JEE 2027 Latest Exam News</h1>
   <p style="margin:8px 0 0;font-size:17px;color:var(--muted);max-width:760px">Registration, last dates, exam dates, admit cards and results for 25 engineering and medical entrance exams. Checked every hour from official websites.</p>
   {lead_html}
   <section class="deadlines" aria-labelledby="dl"><div class="sec-head" style="margin:0"><h2 id="dl">Deadlines to watch</h2><a href="{CALENDAR_URL}" style="color:#FF8A3D;font-weight:600;text-decoration:none;font-size:14px">Full exam calendar →</a></div>
