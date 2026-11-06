@@ -217,7 +217,7 @@ def header(rel, pages, active):
 <nav aria-label="Competishun"><a href="{COURSES_URL}">Courses</a><a href="{COURSES_URL}">Test Series</a><a href="{CALENDAR_URL}">Exam Calendar</a></nav></div></div>
 <header class="site-header"><div class="wrap brandrow">
   <a class="brand" href="{SITE}/"><img src="{rel}assets/competishun-logo-white.png" alt="Competishun — The Power of Real Gurus" width="257" height="38"><span class="tag">EXAM NEWS</span></a>
-  <div class="head-btns"><a class="btn btn-ghost" href="{rel}#all-exams">All 25 exams</a><a class="btn btn-orange" href="{WHATSAPP_URL}">Get exam alerts</a></div>
+  <div class="head-btns"><a class="btn btn-ghost" href="{rel}#all-exams">All 25 exams</a></div>
 </div>
 <div class="wrap"><nav class="tabs" aria-label="Exam news sections">{"".join(tabs)}</nav></div></header>'''
 
@@ -228,14 +228,14 @@ def footer(rel, pages):
 <div><img src="{rel}assets/competishun-logo-white.png" alt="Competishun" width="216" height="32"><p>Verified exam news for JEE and NEET students. We check official exam websites every hour. No ads.</p></div>
 <div><h2>Exam news</h2>{top}<a href="{rel}#all-exams" style="color:#FF8A3D;font-weight:600">All 25 exams →</a></div>
 <div><h2>Useful links</h2><a href="{CALENDAR_URL}">Exam Calendar 2026-27</a><a href="{COURSES_URL}">JEE 2027 Courses</a><a href="{COURSES_URL}">Test Series</a></div>
-<div><h2>Get free exam alerts</h2><p>Last dates, admit cards and results on WhatsApp.</p><a class="btn btn-orange" style="display:inline-flex" href="{WHATSAPP_URL}">Join on WhatsApp</a></div>
+<div><h2>Get free exam alerts</h2><p>Last dates, admit cards and results on WhatsApp.</p></div>
 </div><div class="wrap foot-bottom"><span>© {TODAY.year} Competishun · The Power of Real Gurus · Jaipur</span><span>Always confirm dates on the official exam website.</span></div></footer>
 </body></html>'''
 
 
 def cta():
     return f'''<div class="cta"><h2>Never miss a last date</h2><p>Free WhatsApp alerts for registration, admit card and result updates.</p>
-<a class="btn btn-orange" href="{WHATSAPP_URL}">Join WhatsApp alerts</a><a class="btn btn-outline" href="{COUNSELLOR_URL}">Talk to a counsellor</a></div>'''
+<a class="btn btn-outline" href="{COUNSELLOR_URL}">Talk to a counsellor</a></div>'''
 
 
 def faq_html(qs):
