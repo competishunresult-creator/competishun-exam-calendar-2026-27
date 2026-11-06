@@ -174,7 +174,7 @@ def news_item(it, pages, rel, show_exam=True):
   {thumb(it["image"], p["short"] + " 2027")}
   <div class="body">
     <div class="meta">{chip}<span class="muted">· {escape(it["type"])}</span>{st_badge(it["status"])}</div>
-    <h3>{escape(it["headline"])}</h3>
+    <h3><a href="{escape(it["source_url"])}" rel="noopener" target="_blank">{escape(it["headline"])}</a></h3>
     <p>{escape(it["summary"])}</p>
     <div class="src"><time datetime="{it["date"]}">{nice(d)}</time> · Source: <a href="{escape(it["source_url"])}" rel="noopener" target="_blank">{escape(it["source"])}</a></div>
   </div>
@@ -217,7 +217,7 @@ def header(rel, pages, active):
 <nav aria-label="Competishun"><a href="{COURSES_URL}">Courses</a><a href="{COURSES_URL}">Test Series</a><a href="{CALENDAR_URL}">Exam Calendar</a></nav></div></div>
 <header class="site-header"><div class="wrap brandrow">
   <a class="brand" href="{SITE}/"><img src="{rel}assets/competishun-logo-white.png" alt="Competishun — The Power of Real Gurus" width="257" height="38"><span class="tag">EXAM NEWS</span></a>
-  <div style="display:flex;gap:10px;flex-wrap:wrap"><a class="btn btn-orange" href="{WHATSAPP_URL}">Get exam alerts</a></div>
+  <div class="head-btns"><a class="btn btn-ghost" href="{rel}#all-exams">All 25 exams</a><a class="btn btn-orange" href="{WHATSAPP_URL}">Get exam alerts</a></div>
 </div>
 <div class="wrap"><nav class="tabs" aria-label="Exam news sections">{"".join(tabs)}</nav></div></header>'''
 
@@ -255,6 +255,15 @@ def exam_faqs(p):
         (f"Who conducts {n} and what is the official website?", f"{n} is conducted by {r['conducting_body']}. The official website is {r['official_url']}"),
     ]
     return qs
+
+
+def directory_html(pages, rel):
+    groups = ""
+    for g in GROUP_ORDER:
+        links = "".join(f'<a href="{rel}{p["slug"]}/">{escape(p["short"])} 2027 News</a>' for p in sorted(pages.values(), key=lambda x: x["order"]) if p["group"] == g)
+        groups += f'<div><h3>{escape(g)}</h3>{links}</div>'
+    return f'''<section class="dir" id="all-exams" aria-labelledby="dir"><h2 id="dir">All 25 exam news pages</h2>
+    <p style="margin:6px 0 0;color:#4A4030">Each exam has its own page with the latest news, dates and FAQs.</p><div class="dir-grid">{groups}</div></section>'''
 
 
 # ---------------- pages ----------------
@@ -336,6 +345,7 @@ def build_exam(p, pages, items):
     {cta()}
   </aside>
 </div>
+<div class="wrap">{directory_html(pages, rel)}</div>
 ''' + footer(rel, pages)
     return html
 
@@ -359,10 +369,6 @@ def build_common(pages, items):
     dl_html = "".join(f'''<a class="dl" href="{p["slug"]}/"><div class="days"><b>{(d - TODAY).days}</b><small>DAYS</small></div>
 <div><span class="w">{escape(p["short"])} {escape(what)}</span><span class="d">{nice(d)}</span></div></a>''' for d, p, what in dls[:4])
 
-    groups = ""
-    for g in GROUP_ORDER:
-        links = "".join(f'<a href="{p["slug"]}/">{escape(p["short"])} 2027 News</a>' for p in sorted(pages.values(), key=lambda x: x["order"]) if p["group"] == g)
-        groups += f'<div><h3>{escape(g)}</h3>{links}</div>'
 
     qs = [
         ("How often is this page updated?", "Every hour. New notices from NTA and other exam bodies appear here soon after they are released."),
@@ -414,8 +420,7 @@ def build_common(pages, items):
       <div class="card"><h2>How we update this page</h2><p style="margin:0;font-size:14px;line-height:1.6;color:#3A4456">We check official exam websites every hour. A date is marked Official only when it is on the official site or confirmed by two trusted news sources.</p></div>
     </aside>
   </div>
-  <section class="dir" id="all-exams" aria-labelledby="dir"><h2 id="dir">All 25 exam news pages</h2>
-    <p style="margin:6px 0 0;color:#4A4030">Each exam has its own page with the latest news, dates and FAQs.</p><div class="dir-grid">{groups}</div></section>
+  {directory_html(pages, rel)}
   <section class="card faq" aria-labelledby="faq"><h2 id="faq">Frequently asked questions</h2>{faq_html(qs)}</section>
 </div>
 ''' + footer(rel, pages)
