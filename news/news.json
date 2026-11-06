@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T10:15:00+05:30",
+  "updated_at": "2026-11-06T18:20:00+05:30",
   "items": [
     {"id": "jee-main-2027-s1-last-date-reminder", "date": "2026-11-05", "exam": "jee-main-2027", "type": "Last date", "status": "Official", "top": true,
      "headline": "JEE Main 2027 Session 1 form: last date to apply is Nov 22",
@@ -45,9 +45,9 @@
      "headline": "MET 2027 Phase 1 last date changed to Mar 15",
      "summary": "Manipal has moved the Phase 1 last date from Mar 31 to Mar 15 2027. Exam dates are awaited.",
      "source": "KollegeApply", "source_url": "https://news.kollegeapply.com/news/met-2027-registration-last-date-revised-check-new-schedule", "image": "form"},
-    {"id": "neet-ug-2027-cbt", "date": "2026-10-31", "exam": "neet-ug-2027", "type": "Exam pattern", "status": "News report",
-     "headline": "NEET UG 2027 to be computer-based: NTA notice awaited",
-     "summary": "The government has said NEET 2027 will move to computer-based mode. Registration and exam dates are not out yet.",
+    {"id": "neet-ug-2027-cbt", "date": "2026-11-02", "exam": "neet-ug-2027", "type": "Exam pattern", "status": "News report",
+     "headline": "NEET UG 2027 mode not final: CBT planned, pen-and-paper may stay",
+     "summary": "The government has said NEET 2027 will move to computer-based mode, but Nov 2 2026 reports say pen-and-paper may continue as some states object. NTA has not issued an official notice yet.",
      "source": "Careers360", "source_url": "https://news.careers360.com/neet-cbt-2027-major-reform-computer-based-test-dharmendra-pradhan-education-minister-reneet-date-nta-paper-leak", "image": "cbt"},
     {"id": "mht-cet-2027-attempts-after-boards", "date": "2026-10-31", "exam": "mht-cet-2027", "type": "Schedule", "status": "Expected",
      "headline": "MHT CET 2027: both attempts likely after HSC boards",
