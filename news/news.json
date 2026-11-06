@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-06T07:08:00+05:30",
+  "updated_at": "2026-11-06T10:15:00+05:30",
   "items": [
     {"id": "jee-main-2027-s1-last-date-reminder", "date": "2026-11-05", "exam": "jee-main-2027", "type": "Last date", "status": "Official", "top": true,
-     "headline": "JEE Main 2027 Session 1 form: 17 days left to apply",
+     "headline": "JEE Main 2027 Session 1 form: last date to apply is Nov 22",
      "summary": "The last date is Nov 22 2026. A late fee of Rs 500 applies from Nov 23 to 26. The correction window is open from Nov 27 to 29.",
      "source": "NTA", "source_url": "https://jeemain.nta.nic.in", "image": "form"},
     {"id": "jee-main-2027-nri-passport-id", "date": "2026-11-05", "exam": "jee-main-2027", "type": "Registration", "status": "News report",
