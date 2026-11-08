@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-08
+- No date changes; all 25 rows re-verified. No new official notices found (JEE Main S1 last date still Nov 22 2026; BITSAT registration still expected Dec 2026; AEEE and MHT CET registration not yet open; CUET UG; NEET UG and others still awaited). NEET UG 2027 mode still reported differently (CBT vs pen-paper); row left as is. verified_on set to 2026-11-08 for all rows.
+
 ## 2026-11-07
 - KIITEE 2027: date_type set to Partly Official. Phase 1 registration start set to Nov 10 2026 (s1_reg_start 2026-11-10; s1_label Phase 1). Last date and exam dates still awaited. Sources: https://university.careers360.com/articles/kiitee-application-form ; https://www.selfstudys.com/update/kiitee-2027-registration-schedule-released-check-btech-exam-and-application-dates ; https://news.kollegeapply.com/news/kiitee-2027-registration-dates-announced-check-dates-btech-application-details
 - NEET UG 2027 row not changed: reports conflict on CBT vs pen-paper mode (some reports say pen-paper may continue). Flagged for manual check.
