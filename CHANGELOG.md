@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-09
+- No date changes; all 25 rows re-verified. JEE Main S1 last date still Nov 22 2026 (late fee Nov 23–26). BITSAT; MHT CET; CUET UG; NEET UG and others still awaited. AEEE 2027: one site (Careers360) says registration opened Nov 7 2026 but other sites still say "expected in November"; row not changed until confirmed. Source: https://engineering.careers360.com/articles/aeee-2027 . verified_on set to 2026-11-09 for all rows.
+
 ## 2026-11-08
 - No date changes; all 25 rows re-verified. No new official notices found (JEE Main S1 last date still Nov 22 2026; BITSAT registration still expected Dec 2026; AEEE and MHT CET registration not yet open; CUET UG; NEET UG and others still awaited). NEET UG 2027 mode still reported differently (CBT vs pen-paper); row left as is. verified_on set to 2026-11-08 for all rows.
 
