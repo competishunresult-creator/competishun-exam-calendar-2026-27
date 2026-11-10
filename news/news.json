@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T07:08:00+05:30",
+  "updated_at": "2026-11-10T10:25:00+05:30",
   "items": [
     {
       "id": "jee-main-2027-s1-last-date-reminder",
@@ -45,7 +45,7 @@
       "type": "Registration",
       "status": "News report",
       "headline": "KIITEE 2027 registration to open on Nov 10, reports say",
-      "summary": "Careers360 and Shiksha report that the KIITEE 2027 Phase 1 form will open on Nov 10 2026 at kiitee.kiit.ac.in. The official KIIT notice is awaited.",
+      "summary": "Careers360 and Shiksha report that the KIITEE 2027 Phase 1 form opens on Nov 10 2026 at kiitee.kiit.ac.in. The official KIIT notice and last date are awaited.",
       "source": "Careers360, Shiksha",
       "source_url": "https://university.careers360.com/articles/kiitee-important-dates",
       "image": "form"
@@ -168,6 +168,18 @@
       "summary": "Two sessions are likely as in 2026. BITS Pilani has not released the official notice yet.",
       "source": "Careers360",
       "source_url": "https://engineering.careers360.com/articles/bitsat-2027",
+      "image": "form"
+    },
+    {
+      "id": "aeee-2027-registration-open",
+      "date": "2026-11-07",
+      "exam": "aeee-2027",
+      "type": "Registration",
+      "status": "News report",
+      "headline": "AEEE 2027 registration opens at aeee.amrita.edu",
+      "summary": "Careers360 and Shiksha report that the AEEE 2027 form is now open at aeee.amrita.edu. The fee is Rs 1,300 and the exam window is Apr 15 to May 7 2027; check the last date on the official site.",
+      "source": "Careers360, Shiksha",
+      "source_url": "https://engineering.careers360.com/articles/aeee-registration-2027-link-activated-check-how-apply-online",
       "image": "form"
     }
   ]
