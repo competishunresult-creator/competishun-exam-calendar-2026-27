@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-11-10T17:15:00+05:30",
+  "updated_at": "2026-11-10T23:20:00+05:30",
   "items": [
     {
       "id": "jee-main-2027-s1-last-date-reminder",
-      "date": "2026-11-05",
+      "date": "2026-11-10",
       "exam": "jee-main-2027",
       "type": "Last date",
       "status": "Official",
       "top": true,
       "headline": "JEE Main 2027 Session 1 form: last date to apply is Nov 22",
-      "summary": "The last date is Nov 22 2026. A late fee of Rs 500 applies from Nov 23 to 26. The correction window is open from Nov 27 to 29.",
+      "summary": "On Nov 10 2026 NTA reminded students that the last date is Nov 22 2026; over 5.72 lakh have registered so far. A late fee of Rs 500 applies from Nov 23 to 26, and the correction window is open from Nov 27 to 29.",
       "source": "NTA",
       "source_url": "https://jeemain.nta.nic.in",
       "image": "form"
