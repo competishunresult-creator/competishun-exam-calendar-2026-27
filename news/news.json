@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T10:25:00+05:30",
+  "updated_at": "2026-11-10T11:08:00+05:30",
   "items": [
     {
       "id": "jee-main-2027-s1-last-date-reminder",
@@ -40,14 +40,14 @@
     },
     {
       "id": "kiitee-2027-registration-nov-10",
-      "date": "2026-11-05",
+      "date": "2026-11-10",
       "exam": "kiitee-2027",
       "type": "Registration",
       "status": "News report",
-      "headline": "KIITEE 2027 registration to open on Nov 10, reports say",
-      "summary": "Careers360 and Shiksha report that the KIITEE 2027 Phase 1 form opens on Nov 10 2026 at kiitee.kiit.ac.in. The official KIIT notice and last date are awaited.",
-      "source": "Careers360, Shiksha",
-      "source_url": "https://university.careers360.com/articles/kiitee-important-dates",
+      "headline": "KIITEE 2027 Phase 1 registration opens at kiitee.kiit.ac.in",
+      "summary": "Careers360 and Shiksha report that the KIITEE 2027 Phase 1 form opened on Nov 10 2026 at kiitee.kiit.ac.in. The Phase 1 exam is expected in April 2027; check the last date on the official site.",
+      "source": "Shiksha",
+      "source_url": "https://www.shiksha.com/news/engineering-kiitee-2027-registration-starts-today-check-application-process-and-other-details-blogId-246308",
       "image": "form"
     },
     {
