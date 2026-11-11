@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-11
+- AEEE 2027: registration text set to "Opened Nov 7 2026" (s1_reg_start 2026-11-07); note updated (fee ₹1300; last date still awaited). Sources: https://news.careers360.com/aeee-2027-registration-begins-aeee-amrita-edu-amrita-vishwa-vidyapeetham-btech-admissions-jee-main-eligibility-exam-date ; https://www.sarvgyan.com/articles/aeee-2027 ; https://www.shiksha.com/b-tech/aeee-exam
+- All other 24 exams re-checked; no new official dates (JEE Main S1 last date still Nov 22 2026 with late fee Nov 23–26; KIITEE Phase 1 last date still awaited; BITSAT; MHT CET; CUET UG; NEET UG and others still awaited). verified_on set to 2026-11-11 for all rows.
+
 ## 2026-11-10
 - No date changes; all 25 rows re-verified. JEE Main S1 last date still Nov 22 2026 (late fee Nov 23–26). KIITEE Phase 1 form start Nov 10 2026 unchanged (last date still awaited). AEEE 2027: Careers360 news (Nov 7) says registration opened but Sarvgyan and other sites still say "releasing soon in November"; no exact start or last date found; row not changed. Source: https://news.careers360.com/aeee-2027-registration-begins-aeee-amrita-edu-amrita-vishwa-vidyapeetham-btech-admissions-jee-main-eligibility-exam-date . BITSAT; MHT CET; CUET UG; NEET UG and others still awaited. verified_on set to 2026-11-10 for all rows.
 
