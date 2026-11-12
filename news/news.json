@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T23:20:00+05:30",
+  "updated_at": "2026-11-12T18:15:00+05:30",
   "items": [
     {
       "id": "jee-main-2027-s1-last-date-reminder",
@@ -181,6 +181,18 @@
       "source": "Careers360, Shiksha",
       "source_url": "https://engineering.careers360.com/articles/aeee-registration-2027-link-activated-check-how-apply-online",
       "image": "form"
+    },
+    {
+      "id": "bitsat-2027-full-scholarship-top-1000",
+      "date": "2026-11-01",
+      "exam": "bitsat-2027",
+      "type": "Policy",
+      "status": "News report",
+      "headline": "BITS Pilani to give full tuition scholarship to top 1,000 BITSAT 2027 rankers",
+      "summary": "From 2027, the top 1,000 BITSAT rankers with family income up to Rs 20 lakh a year will get a full tuition scholarship for four years. Students must keep a CGPA of 7.5 to continue it.",
+      "source": "Careers360 (PTI), ThePrint",
+      "source_url": "https://news.careers360.com/bits-pilani-offer-full-scholarship-top-1000-rankers-in-entrance-tests-from-2027",
+      "image": "alert"
     }
   ]
 }
