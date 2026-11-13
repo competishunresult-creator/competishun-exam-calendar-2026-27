@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-13
+- No date changes; all 25 rows re-verified. JEE Main S1 last date still Nov 22 2026 (late fee Nov 23–26; correction Nov 27–29). KIITEE Phase 1 last date and AEEE last date still awaited. BITSAT registration still expected Dec 2026 (no official notice). MHT CET; CUET UG; NEET UG and others still awaited. verified_on set to 2026-11-13 for all rows.
+
 ## 2026-11-12
 - No date changes; all 25 rows re-verified. JEE Main S1 last date still Nov 22 2026 (late fee Nov 23–26; correction Nov 27–29). BITSAT registration still expected Dec 2026; KIITEE Phase 1 last date and AEEE last date still awaited; MHT CET; CUET UG; NEET UG and others still awaited. verified_on set to 2026-11-12 for all rows.
 
