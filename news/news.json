@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-11-14T20:20:00+05:30",
+  "updated_at": "2026-11-15T09:25:00+05:30",
   "items": [
+    {
+      "id": "jee-advanced-2027-exam-date-may-23",
+      "date": "2026-11-13",
+      "exam": "jee-advanced-2027",
+      "type": "Exam date",
+      "status": "News report",
+      "headline": "JEE Advanced 2027 on May 23; IIT Delhi to conduct the exam",
+      "summary": "Shiksha and Careers360 report that IIT Delhi has launched the JEE Advanced 2027 website and set the exam for Sunday, May 23 2027, in computer-based mode. Registration dates and paper timings are awaited on jeeadv.ac.in.",
+      "source": "Shiksha, Careers360",
+      "source_url": "https://www.shiksha.com/news/engineering-jee-advanced-2027-official-website-launched-iit-delhi-announces-eligibility-and-exam-date-blogId-246610",
+      "image": "calendar"
+    },
     {
       "id": "jee-main-2027-s1-last-date-reminder",
       "date": "2026-11-10",
@@ -9,7 +21,7 @@
       "status": "Official",
       "top": true,
       "headline": "JEE Main 2027 Session 1 form: last date to apply is Nov 22",
-      "summary": "NTA says over 6.7 lakh forms have been submitted and 4,90,008 students have completed registration (Nov 12 2026). The last date is Nov 22 2026; a late fee of Rs 500 applies from Nov 23 to 26, and the correction window is open from Nov 27 to 29.",
+      "summary": "NTA data shows 7,86,687 forms submitted and 5,94,259 fee payments done (Nov 14 2026). The last date is Nov 22 2026; a late fee of Rs 500 applies from Nov 23 to 26, and the correction window is open from Nov 27 to 29.",
       "source": "NTA",
       "source_url": "https://jeemain.nta.nic.in",
       "image": "form"
