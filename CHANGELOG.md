@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-11-15
+- No date changes; all rows re-verified. JEE Main S1 last date still Nov 22 2026 (late fee Nov 23–26; correction Nov 27–29). BITSAT registration still expected Dec 2026. MHT CET; CUET UG; NEET UG; KIITEE Phase 1 last date and AEEE last date still awaited.
+- KEAM 2027 not changed: one site reports exam Apr 21–26 2027 but CEE Kerala has not confirmed. Source: https://news.kollegeapply.com/news/keam-2027-exam-date-reported-for-april-21-to-26-official-confirmation-awaited
+- verified_on set to 2026-11-15 for all 25 rows.
+
 ## 2026-11-13
 - No date changes; all 25 rows re-verified. JEE Main S1 last date still Nov 22 2026 (late fee Nov 23–26; correction Nov 27–29). KIITEE Phase 1 last date and AEEE last date still awaited. BITSAT registration still expected Dec 2026 (no official notice). MHT CET; CUET UG; NEET UG and others still awaited. verified_on set to 2026-11-13 for all rows.
 
