@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-11-16 (evening run)
+- No date changes; all 25 rows re-verified. JEE Main S1 last date still Nov 22 2026 (no extension; late fee Nov 23–26; correction Nov 27–29). JEE Advanced May 23 2027 unchanged; registration expected Apr 2027. BITSAT still expected Dec 2026 (Careers360 Nov 12). MHT CET notification still awaited (Careers360 Nov 14). KIITEE Phase 1 last date; AEEE last date and MET exam dates still awaited. CUET UG; NEET UG and state CETs still awaited.
+- NEET UG 2027 not changed: news reports say a CBT over 5–6 days is planned; but the Centre told the Supreme Court the move will be gradual. No NTA notice. Source: https://www.deccanherald.com/india/2027-neet-ug-plan-computer-based-test-to-be-spread-over-6-days-across-more-than-1000-centres-4066504
+- verified_on stays 2026-11-16 for all 25 rows.
+
 ## 2026-11-16 (correction)
 - JEE Advanced 2027: exam date set to May 23 2027 (Sunday); organiser IIT Delhi; CBT; date_type Partly Official (s1_exam_start/end 2027-05-23). This was missed in the earlier daily runs. Sources: https://www.shiksha.com/news/engineering-jee-advanced-2027-official-website-launched-iit-delhi-announces-eligibility-and-exam-date-blogId-246610 ; https://engineering.careers360.com/articles/jee-advanced-2027
 
