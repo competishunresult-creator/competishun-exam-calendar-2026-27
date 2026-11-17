@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-11-17 (evening run)
+- MHT CET (PCM) 2027: CET Cell schedule (press release Nov 16 2026; tentative) gives PCM Attempt 1 Apr 16–26 2027 and Attempt 2 May 10–15 2027. date_type set to Partly Official; exam_dates; notes and s1/s2 exam dates filled. Registration dates still awaited. Sources: https://www.shiksha.com/news/engineering-cet-cell-officially-confirms-mht-cet-2027-both-attempts-after-boards-pcm-pcb-exam-dates-released-blogId-246758 ; https://news.kollegeapply.com/news/mht-cet-2027-live-updates-attempt-wise-exam-dates-registration-eligibility-here ; https://www.pw.live/msbshse/exams/mht-cet-2027-exam-date-out ; https://engineering.careers360.com/articles/mht-cet-exam-date-2027-update-pcm-pcb-paper-schedule
+- All other 24 rows re-verified; no date changes (JEE Main S1 last date still Nov 22 2026; BITSAT; COMEDK; GUJCET; KIITEE last date; MET exam dates; CUET UG; NEET UG and other state CETs still awaited). All news.json items already reflected.
+- verified_on set to 2026-11-17 for all 25 rows.
+
 ## 2026-11-17
 - No date changes; all 25 rows re-verified. JEE Main S1 last date still Nov 22 2026 (no extension; late fee Nov 23–26; correction Nov 27–29). JEE Advanced May 23 2027 unchanged. BITSAT still expected Dec 2026 (Careers360 Nov 12). MHT CET schedule still not official (Careers360 Nov 11: dates tentative). KIITEE Phase 1 last date; MET exam dates still awaited. CUET UG; NEET UG and state CETs still awaited. All news.json items already reflected.
 - AEEE 2027 last date not changed: Careers360 says Apr 15 2027 but Sarvgyan says Phase 1 2nd week of Jan 2027; sources conflict. Sources: https://engineering.careers360.com/articles/aeee-2027 ; https://www.sarvgyan.com/articles/aeee-2027-registration
