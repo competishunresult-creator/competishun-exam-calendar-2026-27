@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-11-17
+- No date changes; all 25 rows re-verified. JEE Main S1 last date still Nov 22 2026 (no extension; late fee Nov 23–26; correction Nov 27–29). JEE Advanced May 23 2027 unchanged. BITSAT still expected Dec 2026 (Careers360 Nov 12). MHT CET schedule still not official (Careers360 Nov 11: dates tentative). KIITEE Phase 1 last date; MET exam dates still awaited. CUET UG; NEET UG and state CETs still awaited. All news.json items already reflected.
+- AEEE 2027 last date not changed: Careers360 says Apr 15 2027 but Sarvgyan says Phase 1 2nd week of Jan 2027; sources conflict. Sources: https://engineering.careers360.com/articles/aeee-2027 ; https://www.sarvgyan.com/articles/aeee-2027-registration
+- verified_on set to 2026-11-17 for all 25 rows.
+
 ## 2026-11-16 (evening run)
 - No date changes; all 25 rows re-verified. JEE Main S1 last date still Nov 22 2026 (no extension; late fee Nov 23–26; correction Nov 27–29). JEE Advanced May 23 2027 unchanged; registration expected Apr 2027. BITSAT still expected Dec 2026 (Careers360 Nov 12). MHT CET notification still awaited (Careers360 Nov 14). KIITEE Phase 1 last date; AEEE last date and MET exam dates still awaited. CUET UG; NEET UG and state CETs still awaited.
 - NEET UG 2027 not changed: news reports say a CBT over 5–6 days is planned; but the Centre told the Supreme Court the move will be gradual. No NTA notice. Source: https://www.deccanherald.com/india/2027-neet-ug-plan-computer-based-test-to-be-spread-over-6-days-across-more-than-1000-centres-4066504
