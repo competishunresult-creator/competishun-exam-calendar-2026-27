@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-18 (evening run)
+- No date changes; all 25 rows re-verified. JEE Main S1 last date still Nov 22 2026 (no extension reported; late fee Nov 23–26; correction Nov 27–29). BITSAT still expected Dec 2026 (Careers360: not announced). MHT CET registration still awaited. KIITEE Phase 1 last date; MET exam dates (Careers360 Nov 5: Apr/May expected) and AEEE last date still awaited. GUJCET still expected Dec 2026 (Careers360). KEAM Apr 21–26 still only reported; not confirmed by CEE Kerala. CUET UG; NEET UG; NEST and other state CETs still awaited. All news.json items already reflected.
+- verified_on stays 2026-11-18 for all 25 rows.
+
 ## 2026-11-18
 - No date changes; all 25 rows re-verified. JEE Main S1 last date still Nov 22 2026 (no extension; late fee Nov 23–26; correction Nov 27–29). BITSAT still not open (Careers360 Nov 12: expected Dec 2026). MHT CET registration still awaited. KIITEE Phase 1 last date; MET exam dates; AEEE last date still awaited or unconfirmed. CUET UG; NEET UG; NEST and state CETs still awaited. All news.json items already reflected.
 - JEE Advanced 2027: note added that a basic on-screen calculator will be given for the first time (no date change). Sources: https://www.collegepravesh.com/news/jee-advanced-2027-on-screen-calculator-announced/ ; https://navbharatlive.com/career/jee-advanced-2027-exam-date-23-may-on-screen-calculator-eligibility-ars24
