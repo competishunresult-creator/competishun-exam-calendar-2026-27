@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-18
+- No date changes; all 25 rows re-verified. JEE Main S1 last date still Nov 22 2026 (no extension; late fee Nov 23–26; correction Nov 27–29). BITSAT still not open (Careers360 Nov 12: expected Dec 2026). MHT CET registration still awaited. KIITEE Phase 1 last date; MET exam dates; AEEE last date still awaited or unconfirmed. CUET UG; NEET UG; NEST and state CETs still awaited. All news.json items already reflected.
+- JEE Advanced 2027: note added that a basic on-screen calculator will be given for the first time (no date change). Sources: https://www.collegepravesh.com/news/jee-advanced-2027-on-screen-calculator-announced/ ; https://navbharatlive.com/career/jee-advanced-2027-exam-date-23-may-on-screen-calculator-eligibility-ars24
+- MHT CET not changed: Careers360 (Nov 17) intro says PCM Attempt 2 May 6–8 but its own table says May 10–15 (May 6–8 shown for PCB). Row keeps May 10–15. Source: https://engineering.careers360.com/articles/mht-cet-2027-updates-on-cet-cell-pcm-and-pcb-exam
+- verified_on set to 2026-11-18 for all 25 rows.
+
 ## 2026-11-17 (evening run)
 - MHT CET (PCM) 2027: CET Cell schedule (press release Nov 16 2026; tentative) gives PCM Attempt 1 Apr 16–26 2027 and Attempt 2 May 10–15 2027. date_type set to Partly Official; exam_dates; notes and s1/s2 exam dates filled. Registration dates still awaited. Sources: https://www.shiksha.com/news/engineering-cet-cell-officially-confirms-mht-cet-2027-both-attempts-after-boards-pcm-pcb-exam-dates-released-blogId-246758 ; https://news.kollegeapply.com/news/mht-cet-2027-live-updates-attempt-wise-exam-dates-registration-eligibility-here ; https://www.pw.live/msbshse/exams/mht-cet-2027-exam-date-out ; https://engineering.careers360.com/articles/mht-cet-exam-date-2027-update-pcm-pcb-paper-schedule
 - All other 24 rows re-verified; no date changes (JEE Main S1 last date still Nov 22 2026; BITSAT; COMEDK; GUJCET; KIITEE last date; MET exam dates; CUET UG; NEET UG and other state CETs still awaited). All news.json items already reflected.
