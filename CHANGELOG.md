@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-19 (evening run)
+- No date changes; all 25 rows re-verified. JEE Main S1 last date still Nov 22 2026 (no extension; late fee Nov 23–26; correction Nov 27–29; admit card Jan 13 2027). JEE Advanced May 23 2027 unchanged; registration dates awaited. BITSAT still expected Dec 2026 (Careers360 Nov 12: not announced). MHT CET registration still awaited (Careers360 Nov 17). MET exam dates and AEEE last date still awaited. KEAM Apr 21–26 still only reported. GUJCET; WBJEE; CUET UG; NEET UG; NEST; ISI and other state CETs still awaited. All news.json items already reflected.
+- verified_on stays 2026-11-19 for all 25 rows.
+
 ## 2026-11-19
 - KIITEE 2027: KIIT announced both phases (Nov 18 2026). Phase 1 last date Apr 8 2027; exam Apr 16–20 2027. Phase 2 last date May 30 2027; exam Jun 4–6 2027. date_type set to Official; last_date; exam_dates; notes and s1/s2 dates filled. Phase 2 form start date awaited. Sources: https://www.shiksha.com/news/engineering-kiitee-2027-exam-dates-out-for-both-attempts-phase-1-from-april-16-to-20-phase-2-in-june-blogId-246322 ; https://news.kollegeapply.com/news/kiitee-2027-exam-dates-released-for-phase-1-and-2-check-registration-last-date ; https://articles.findmycollege.com/news/kiitee-2027-apply-by-april-8-for-phase-1-may-30-for-phase-2/
 - All other 24 rows re-verified; no date changes. JEE Main S1 last date still Nov 22 2026 (late fee Nov 23–26; correction Nov 27–29). BITSAT still expected Dec 2026 (Careers360 Nov 5). MHT CET registration still awaited (Careers360 Nov 16: schedule tentative). AEEE last date and MET exam dates still awaited/unconfirmed. KEAM Apr 21–26 still only reported. GUJCET; CUET UG; NEET UG; NEST and other state CETs still awaited. All news.json items already reflected.
