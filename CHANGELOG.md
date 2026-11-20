@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-20 (evening run)
+- No date changes; all 25 rows re-verified. JEE Main S1 last date still Nov 22 2026 (no extension; late fee Nov 23–26; correction Nov 27–29; Careers360 live blog updated Nov 20). BITSAT still not open (Careers360 Nov 12: expected Dec 2026). MHT CET registration still TBA (Careers360 Nov 19). AEEE last date and MET exam dates still awaited. KEAM Apr 21–26 still only reported; not confirmed by CEE Kerala. CUET UG; NEET UG; WBJEE; COMEDK; GUJCET; NEST; ISI; IISER IAT; NATA; OJEE and other state CETs still awaited. All news.json items already reflected.
+- verified_on stays 2026-11-20 for all 25 rows.
+
 ## 2026-11-20
 - No date changes; all 25 rows re-verified. JEE Main S1 last date still Nov 22 2026 (no extension reported; late fee Nov 23–26; correction Nov 27–29). JEE Advanced May 23 2027 unchanged; registration dates awaited. BITSAT still expected Dec 2026 (Careers360 Nov 12: not announced). MHT CET registration still awaited. AEEE last date and MET exam dates still awaited. NEST; GUJCET; WBJEE; COMEDK; CUET UG; NEET UG; ISI; IISER IAT; NATA and other state CETs still awaited. All news.json items already reflected.
 - verified_on set to 2026-11-20 for all 25 rows.
