@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-28
+- No date changes; all 25 rows re-verified. JEE Main S1 correction window Nov 27–29 open as scheduled; no extension (NTA on X; Careers360 live blog Nov 27). BITSAT still not official (Careers360 updated Nov 26: Dec 2026 "likely"). MHT CET registration still not opened; PCM attempt dates unchanged (Shiksha live Nov 27). GUJCET still only expected Dec 2026 (Careers360 updated Nov 23). NEET UG mode/date still not notified by NTA (only ministry reviews and reports). JEE Advanced registration; AEEE last date; MET exam dates; KIITEE Phase 2 form start still awaited. KEAM Apr 21–26 still unofficial. CUET UG; COMEDK; WBJEE; KCET; TS/AP EAPCET; OJEE; NEST; NATA; ISI; IISER IAT; IIITH still not announced. All news.json items already reflected.
+- verified_on set to 2026-11-28 for all 25 rows.
+
 ## 2026-11-27
 - No date changes; all 25 rows re-verified. JEE Main S1 correction window Nov 27–29 opening as scheduled; no extension; S1 Jan 20–24 & 28 and S2 Apr 2–7 unchanged (Careers360 live blog; FindMyCollege). BITSAT still not official (Careers360 updated Nov 26: registration "likely" Dec 15 2026; exam from Apr 15 expected; row not changed until BITS notice). MHT CET registration still not opened (Careers360 updated Nov 17). JEE Advanced registration; AEEE last date; MET exam dates; KIITEE Phase 2 form start still awaited. KEAM Apr 21–26 still unofficial (KollegeApply). NEET UG; CUET UG; COMEDK; GUJCET; WBJEE; KCET; TS/AP EAPCET; OJEE; NEST; NATA; ISI; IISER IAT; IIITH still not announced. All news.json items already reflected.
 - verified_on set to 2026-11-27 for all 25 rows.
